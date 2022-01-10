@@ -22,5 +22,8 @@
 	arr.push(3);
 	arr.push(4);
 	
+	console.log("TEST");
+	
+	
 </script>
 </html>
